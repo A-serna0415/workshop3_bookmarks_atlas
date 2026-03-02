@@ -1,0 +1,2119 @@
+{
+  "meta": {
+    "title": "B00kmArk5_P3r5ona1_Atla5",
+    "note": "A subjective dataset of Web References.",
+    "autor": "Andrés Serna"
+  },
+  "bookmarks": [
+    {
+      "title": "Apple",
+      "url": "https://www.apple.com/",
+      "norm_url": "https://apple.com/",
+      "domain": "apple.com",
+      "category": "Miscellany",
+      "key_word": "apple",
+      "ref_level": 0.254,
+      "add_date": "2023-11-22"
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.co/?client=safari&channel=iphone_bm",
+      "norm_url": "https://google.com.co/?client=safari&channel=iphone_bm",
+      "domain": "google.com.co",
+      "category": "Tools",
+      "key_word": "google",
+      "ref_level": 0.77,
+      "add_date": "2021-04-27"
+    },
+    {
+      "title": "DeepL Translate - El mejor traductor del mundo",
+      "url": "https://www.deepl.com/translator",
+      "norm_url": "https://deepl.com/translator",
+      "domain": "deepl.com",
+      "category": "Tools",
+      "key_word": "deepl",
+      "ref_level": 0.752,
+      "add_date": "2020-06-21"
+    },
+    {
+      "title": "Using the ‘EU Exit: ID Document Check’ app - GOV.UK",
+      "url": "https://www.gov.uk/guidance/using-the-eu-exit-id-document-check-app",
+      "norm_url": "https://gov.uk/guidance/using-the-eu-exit-id-document-check-app",
+      "domain": "gov.uk",
+      "category": "Miscellany",
+      "key_word": "using",
+      "ref_level": 0.522,
+      "add_date": "2022-04-14"
+    },
+    {
+      "title": "Figma",
+      "url": "https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1272687234201960868",
+      "norm_url": "https://figma.com/files/recents-and-sharing/recently-viewed?fuid=1272687234201960868",
+      "domain": "figma.com",
+      "category": "Tools",
+      "key_word": "figma",
+      "ref_level": 0.201,
+      "add_date": "2023-03-22"
+    },
+    {
+      "title": "Student Home | Platzi",
+      "url": "https://platzi.com/home",
+      "norm_url": "https://platzi.com/home",
+      "domain": "platzi.com",
+      "category": "Tools",
+      "key_word": "student",
+      "ref_level": 0.526,
+      "add_date": "2025-04-07"
+    },
+    {
+      "title": "Makerspace: Clase 1 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=i_n1JFesVG0",
+      "norm_url": "https://youtube.com/watch?v=i_n1JFesVG0",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.99,
+      "add_date": "2024-12-03"
+    },
+    {
+      "title": "Makerspace: Clase 2 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=81VPKoRrNdg",
+      "norm_url": "https://youtube.com/watch?v=81VPKoRrNdg",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.509,
+      "add_date": "2023-12-10"
+    },
+    {
+      "title": "Makerspace: Clase 3 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=2850AhOzAZc",
+      "norm_url": "https://youtube.com/watch?v=2850AhOzAZc",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.512,
+      "add_date": "2020-09-18"
+    },
+    {
+      "title": "Makerspace: Clase 4 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=l19NHf41b1Q",
+      "norm_url": "https://youtube.com/watch?v=l19NHf41b1Q",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.569,
+      "add_date": "2020-04-01"
+    },
+    {
+      "title": "Makerspace: Clase 5 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=RhM0BBPWh0A",
+      "norm_url": "https://youtube.com/watch?v=RhM0BBPWh0A",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.647,
+      "add_date": "2024-10-07"
+    },
+    {
+      "title": "Makerspace: Clase 6 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=Ql1Xyq_5m0Y",
+      "norm_url": "https://youtube.com/watch?v=Ql1Xyq_5m0Y",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.43,
+      "add_date": "2024-05-26"
+    },
+    {
+      "title": "Makerspace: Clase 7 - Modelado 3D en Blender - YouTube",
+      "url": "https://www.youtube.com/watch?v=_BbKWFMq1Ac",
+      "norm_url": "https://youtube.com/watch?v=_BbKWFMq1Ac",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.851,
+      "add_date": "2021-12-02"
+    },
+    {
+      "title": "Certified translations in a blink. | Dialexy",
+      "url": "https://www.dialexy.com/en",
+      "norm_url": "https://dialexy.com/en",
+      "domain": "dialexy.com",
+      "category": "Tools",
+      "key_word": "certified",
+      "ref_level": 0.75,
+      "add_date": "2021-03-23"
+    },
+    {
+      "title": "(156) 🔥LA GUÍA DEFINITIVA DE BLENDER! (Tutorial completo en Español) | Desde cero! 2023 - YouTube",
+      "url": "https://www.youtube.com/watch?v=O-tV7uBf5LI",
+      "norm_url": "https://youtube.com/watch?v=O-tV7uBf5LI",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.66,
+      "add_date": "2022-05-08"
+    },
+    {
+      "title": "Structure — Blender Manual",
+      "url": "https://docs.blender.org/manual/en/latest/modeling/meshes/structure.html",
+      "norm_url": "https://docs.blender.org/manual/en/latest/modeling/meshes/structure.html",
+      "domain": "docs.blender.org",
+      "category": "Docs",
+      "key_word": "docs",
+      "ref_level": 0.154,
+      "add_date": "2023-05-20"
+    },
+    {
+      "title": "(160) Eme Uve - YouTube",
+      "url": "https://www.youtube.com/channel/UCzSjd8jXkRaIKLXemaVK-_g/playlists",
+      "norm_url": "https://youtube.com/channel/UCzSjd8jXkRaIKLXemaVK-_g/playlists",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.127,
+      "add_date": "2023-09-03"
+    },
+    {
+      "title": "GitHub - keijiro/LaspVfx: Audio reactive Unity VFX with LASP",
+      "url": "https://github.com/keijiro/LaspVfx",
+      "norm_url": "https://github.com/keijiro/LaspVfx",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.995,
+      "add_date": "2023-02-16"
+    },
+    {
+      "title": "(160) Workshop on Unity VFX Graph - Point Cloud + 2D Texture Sampling - YouTube",
+      "url": "https://www.youtube.com/watch?v=iqntF9NPqLw&t=1270s",
+      "norm_url": "https://youtube.com/watch?v=iqntF9NPqLw&t=1270s",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.71,
+      "add_date": "2024-06-16"
+    },
+    {
+      "title": "GitHub - yumayanagisawa/Unity-Point-Cloud-VFX-Graph",
+      "url": "https://github.com/yumayanagisawa/Unity-Point-Cloud-VFX-Graph",
+      "norm_url": "https://github.com/yumayanagisawa/Unity-Point-Cloud-VFX-Graph",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.745,
+      "add_date": "2021-07-22"
+    },
+    {
+      "title": "(160) Unity VFX Graph - Image Fireworks - YouTube",
+      "url": "https://www.youtube.com/watch?v=7aC93hHGN1k",
+      "norm_url": "https://youtube.com/watch?v=7aC93hHGN1k",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.934,
+      "add_date": "2023-03-18"
+    },
+    {
+      "title": "keijiro (Keijiro Takahashi) · GitHub",
+      "url": "https://github.com/keijiro",
+      "norm_url": "https://github.com/keijiro",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.906,
+      "add_date": "2022-06-21"
+    },
+    {
+      "title": "Goldsmiths Outlook",
+      "url": "https://outlook.office.com/mail/0/inbox/id/AAQkADg4MGRmMjg3LTA5MmEtNDkyYi1hN2Q4LWY2MjM3MzZiMjZiMAAQAGzw84niI4pLla3ZGuEvS0s%3D",
+      "norm_url": "https://outlook.office.com/mail/0/inbox/id/AAQkADg4MGRmMjg3LTA5MmEtNDkyYi1hN2Q4LWY2MjM3MzZiMjZiMAAQAGzw84niI4pLla3ZGuEvS0s%3D",
+      "domain": "outlook.office.com",
+      "category": "Tools",
+      "key_word": "goldsmiths",
+      "ref_level": 0.6,
+      "add_date": "2024-07-15"
+    },
+    {
+      "title": "VLE",
+      "url": "https://learn.gold.ac.uk/my/",
+      "norm_url": "https://learn.gold.ac.uk/my",
+      "domain": "learn.gold.ac.uk",
+      "category": "Tools",
+      "key_word": "vle",
+      "ref_level": 0.588,
+      "add_date": "2021-12-14"
+    },
+    {
+      "title": "Netflix",
+      "url": "https://www.netflix.com/browse",
+      "norm_url": "https://netflix.com/browse",
+      "domain": "netflix.com",
+      "category": "Miscellany",
+      "key_word": "netflix",
+      "ref_level": 0.569,
+      "add_date": "2022-12-24"
+    },
+    {
+      "title": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/discover?srsltid=AfmBOoqGl2ckaO0DcuYjrbGz_cKW7f7TpBc7IHt5R8nAOQ6l1S2Lernb",
+      "norm_url": "https://crunchyroll.com/discover",
+      "domain": "crunchyroll.com",
+      "category": "Miscellany",
+      "key_word": "crunchyroll",
+      "ref_level": 0.402,
+      "add_date": "2024-02-15"
+    },
+    {
+      "title": "CreativeApplications.Net",
+      "url": "https://www.creativeapplications.net/",
+      "norm_url": "https://creativeapplications.net/",
+      "domain": "creativeapplications.net",
+      "category": "Docs",
+      "key_word": "creativeapplications",
+      "ref_level": 0.892,
+      "add_date": "2025-09-17"
+    },
+    {
+      "title": "Introduction / Nature of Code",
+      "url": "https://natureofcode.com/introduction/",
+      "norm_url": "https://natureofcode.com/introduction",
+      "domain": "natureofcode.com",
+      "category": "Docs",
+      "key_word": "introduction",
+      "ref_level": 0.759,
+      "add_date": "2024-12-27"
+    },
+    {
+      "title": "Basic Syntax | Markdown Guide",
+      "url": "https://www.markdownguide.org/basic-syntax/#:~:text=is__bold-,Italic,without%20spaces%20around%20the%20letters.&text=Italicized%20text%20is%20the%20*cat's%20meow*.",
+      "norm_url": "https://markdownguide.org/basic-syntax",
+      "domain": "markdownguide.org",
+      "category": "Coding",
+      "key_word": "basic",
+      "ref_level": 0.396,
+      "add_date": "2021-12-15"
+    },
+    {
+      "title": "SWS Online Timetables",
+      "url": "https://mytimetable.gold.ac.uk/login.aspx",
+      "norm_url": "https://mytimetable.gold.ac.uk/login.aspx",
+      "domain": "mytimetable.gold.ac.uk",
+      "category": "Tools",
+      "key_word": "sws",
+      "ref_level": 0.398,
+      "add_date": "2020-12-22"
+    },
+    {
+      "title": "Confirm attendance without the SEAtS app | Goldsmiths, University of London",
+      "url": "https://www.gold.ac.uk/students/seats/confirm-attendance/",
+      "norm_url": "https://gold.ac.uk/students/seats/confirm-attendance",
+      "domain": "gold.ac.uk",
+      "category": "Tools",
+      "key_word": "confirm",
+      "ref_level": 0.189,
+      "add_date": "2022-10-01"
+    },
+    {
+      "title": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "norm_url": "https://github.com/public-apis/public-apis",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "api",
+      "ref_level": 0.569,
+      "add_date": "2023-07-23"
+    },
+    {
+      "title": "IriniKlz/DMLAP",
+      "url": "https://github.com/IriniKlz/DMLAP/tree/main",
+      "norm_url": "https://github.com/IriniKlz/DMLAP/tree/main",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.994,
+      "add_date": "2024-08-22"
+    },
+    {
+      "title": "p5.js Web Editor",
+      "url": "https://editor.p5js.org/",
+      "norm_url": "https://editor.p5js.org/",
+      "domain": "editor.p5js.org",
+      "category": "Coding",
+      "key_word": "p5js",
+      "ref_level": 0.38,
+      "add_date": "2025-07-10"
+    },
+    {
+      "title": "Render Dashboard",
+      "url": "https://dashboard.render.com/",
+      "norm_url": "https://dashboard.render.com/",
+      "domain": "dashboard.render.com",
+      "category": "Tools",
+      "key_word": "hosting",
+      "ref_level": 0.222,
+      "add_date": "2020-03-27"
+    },
+    {
+      "title": "The Book of Shaders: What is a shader?",
+      "url": "https://thebookofshaders.com/01/",
+      "norm_url": "https://thebookofshaders.com/01",
+      "domain": "thebookofshaders.com",
+      "category": "Docs",
+      "key_word": "book",
+      "ref_level": 0.126,
+      "add_date": "2024-07-10"
+    },
+    {
+      "title": "p5.js Web Editor | My sketches",
+      "url": "https://editor.p5js.org/andresserna9815/sketches",
+      "norm_url": "https://editor.p5js.org/andresserna9815/sketches",
+      "domain": "editor.p5js.org",
+      "category": "Coding",
+      "key_word": "p5js",
+      "ref_level": 0.82,
+      "add_date": "2023-04-18"
+    },
+    {
+      "title": "Complete list of github markdown emoji markup",
+      "url": "https://gist.github.com/rxaviers/7360908",
+      "norm_url": "https://gist.github.com/rxaviers/7360908",
+      "domain": "gist.github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.396,
+      "add_date": "2024-05-19"
+    },
+    {
+      "title": "Practicando la técnica…con Raphael di Sanzio (II) –respuestas | Pasión por la pintura al óleo…",
+      "url": "https://migueldemontoro.wordpress.com/2012/11/11/practicando-la-tcnicacon-raphael-di-sanzio-ii-respuestas/",
+      "norm_url": "https://migueldemontoro.wordpress.com/2012/11/11/practicando-la-tcnicacon-raphael-di-sanzio-ii-respuestas",
+      "domain": "migueldemontoro.wordpress.com",
+      "category": "Art",
+      "key_word": "practicando",
+      "ref_level": 0.119,
+      "add_date": "2025-01-22"
+    },
+    {
+      "title": "Sistema de Codificación Facial - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Sistema_de_Codificaci%C3%B3n_Facial",
+      "norm_url": "https://es.wikipedia.org/wiki/Sistema_de_Codificaci%C3%B3n_Facial",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "sistema",
+      "ref_level": 0.53,
+      "add_date": "2021-06-02"
+    },
+    {
+      "title": "SIA",
+      "url": "https://siamed.unal.edu.co/academia/",
+      "norm_url": "https://siamed.unal.edu.co/academia",
+      "domain": "siamed.unal.edu.co",
+      "category": "Tools",
+      "key_word": "sia_unal",
+      "ref_level": 0.514,
+      "add_date": "2022-08-27"
+    },
+    {
+      "title": "The Ekmans' Atlas of Emotions",
+      "url": "http://atlasofemotions.org/#introduction/",
+      "norm_url": "http://atlasofemotions.org/",
+      "domain": "atlasofemotions.org",
+      "category": "Docs",
+      "key_word": "emotions",
+      "ref_level": 0.171,
+      "add_date": "2023-09-01"
+    },
+    {
+      "title": "Paul Ekman | Lo que no nos cuentan",
+      "url": "https://blogs.20minutos.es/comunicacion-no-verbal-lo-que-no-nos-cuentan/tag/paul-ekman/",
+      "norm_url": "https://blogs.20minutos.es/comunicacion-no-verbal-lo-que-no-nos-cuentan/tag/paul-ekman",
+      "domain": "blogs.20minutos.es",
+      "category": "Docs",
+      "key_word": "paul",
+      "ref_level": 0.266,
+      "add_date": "2023-04-03"
+    },
+    {
+      "title": "QRCode Monkey - El generador de código QR gratuito para crear códigos QR personalizados con Logotipo",
+      "url": "https://www.qrcode-monkey.com/es#url",
+      "norm_url": "https://qrcode-monkey.com/es",
+      "domain": "qrcode-monkey.com",
+      "category": "Tools",
+      "key_word": "qrcode",
+      "ref_level": 0.337,
+      "add_date": "2025-04-25"
+    },
+    {
+      "title": "Ekman y Friesen | Lo que no nos cuentan",
+      "url": "https://blogs.20minutos.es/comunicacion-no-verbal-lo-que-no-nos-cuentan/tag/ekman-y-friesen/",
+      "norm_url": "https://blogs.20minutos.es/comunicacion-no-verbal-lo-que-no-nos-cuentan/tag/ekman-y-friesen",
+      "domain": "blogs.20minutos.es",
+      "category": "Docs",
+      "key_word": "ekman",
+      "ref_level": 0.362,
+      "add_date": "2024-01-25"
+    },
+    {
+      "title": "Psicología de la mentira (II): Comunicación no verbal del engaño",
+      "url": "http://www.benitezrafa.es/engano-psicologia-de-la-mentira-ii-comunicacion-no-verbal/",
+      "norm_url": "http://benitezrafa.es/engano-psicologia-de-la-mentira-ii-comunicacion-no-verbal",
+      "domain": "benitezrafa.es",
+      "category": "Docs",
+      "key_word": "psicologa",
+      "ref_level": 0.607,
+      "add_date": "2025-10-05"
+    },
+    {
+      "title": "ATLAS.ti 8 Windows | ATLAS.ti",
+      "url": "https://atlasti.com/product/v8-windows/",
+      "norm_url": "https://atlasti.com/product/v8-windows",
+      "domain": "atlasti.com",
+      "category": "Tools",
+      "key_word": "atlas",
+      "ref_level": 0.455,
+      "add_date": "2020-12-08"
+    },
+    {
+      "title": "THE LUXURY OF PROTEST",
+      "url": "http://www.theluxuryofprotest.com/",
+      "norm_url": "http://theluxuryofprotest.com/",
+      "domain": "theluxuryofprotest.com",
+      "category": "Art",
+      "key_word": "luxury",
+      "ref_level": 0.366,
+      "add_date": "2024-08-05"
+    },
+    {
+      "title": "ATLAS.ti 8 - Crear una red de códigos - YouTube",
+      "url": "https://www.youtube.com/watch?v=8GboB4BIVXU",
+      "norm_url": "https://youtube.com/watch?v=8GboB4BIVXU",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.237,
+      "add_date": "2024-01-14"
+    },
+    {
+      "title": "10 herramientas para la visualización de datos | BBVA",
+      "url": "https://www.bbva.com/es/10-herramientas-visualizacion-datos/",
+      "norm_url": "https://bbva.com/es/10-herramientas-visualizacion-datos",
+      "domain": "bbva.com",
+      "category": "Docs",
+      "key_word": "herramientas",
+      "ref_level": 0.832,
+      "add_date": "2022-02-05"
+    },
+    {
+      "title": "WIREWAX - Interactive Video",
+      "url": "https://www.wirewax.com/",
+      "norm_url": "https://wirewax.com/",
+      "domain": "wirewax.com",
+      "category": "Tools",
+      "key_word": "wirewax",
+      "ref_level": 0.951,
+      "add_date": "2026-01-21"
+    },
+    {
+      "title": "Introducción a Pano2VR 06 Zonas de Interacción Hotspots - YouTube",
+      "url": "https://www.youtube.com/watch?v=HOQUBQ9kKek&index=6&list=PL3ozDSnJ3axvHoJx8WVMt2TJ_hJVnYtJx",
+      "norm_url": "https://youtube.com/watch?v=HOQUBQ9kKek&index=6&list=PL3ozDSnJ3axvHoJx8WVMt2TJ_hJVnYtJx",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.706,
+      "add_date": "2023-10-03"
+    },
+    {
+      "title": "alberto mielgo info — +",
+      "url": "http://www.albertomielgo.com/info",
+      "norm_url": "http://albertomielgo.com/info",
+      "domain": "albertomielgo.com",
+      "category": "Art",
+      "key_word": "alberto",
+      "ref_level": 0.85,
+      "add_date": "2020-01-22"
+    },
+    {
+      "title": "ModuloIG_NuevosSentidos - OneDrive",
+      "url": "https://upbeduco-my.sharepoint.com/personal/esteban_gutierrezmu_upb_edu_co/Documents/Forms/All.aspx?cid=2908118b%2De510%2D454a%2D832e%2D31b2796049c8&RootFolder=%2Fpersonal%2Festeban%5Fgutierrezmu%5Fupb%5Fedu%5Fco%2FDocuments%2FModuloIG%5FNuevosSentidos&FolderCTID=0x0120006766FC69B06D614598EA792D48A7B663",
+      "norm_url": "https://upbeduco-my.sharepoint.com/personal/esteban_gutierrezmu_upb_edu_co/Documents/Forms/All.aspx?cid=2908118b-e510-454a-832e-31b2796049c8&RootFolder=%2Fpersonal%2Festeban_gutierrezmu_upb_edu_co%2FDocuments%2FModuloIG_NuevosSentidos&FolderCTID=0x0120006766FC69B06D614598EA792D48A7B663",
+      "domain": "upbeduco-my.sharepoint.com",
+      "category": "Tools",
+      "key_word": "moduloignuevossentidos",
+      "ref_level": 0.714,
+      "add_date": "2025-09-21"
+    },
+    {
+      "title": "Juego de realidad alternativa - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Juego_de_realidad_alternativa",
+      "norm_url": "https://es.wikipedia.org/wiki/Juego_de_realidad_alternativa",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "game",
+      "ref_level": 0.355,
+      "add_date": "2021-11-25"
+    },
+    {
+      "title": "Diseño interactivo - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Dise%C3%B1o_interactivo",
+      "norm_url": "https://es.wikipedia.org/wiki/Dise%C3%B1o_interactivo",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "design_interactive",
+      "ref_level": 0.599,
+      "add_date": "2022-05-28"
+    },
+    {
+      "title": "Resonance Audio - Discover Resonance Audio",
+      "url": "https://resonance-audio.github.io/resonance-audio/discover/overview.html",
+      "norm_url": "https://resonance-audio.github.io/resonance-audio/discover/overview.html",
+      "domain": "resonance-audio.github.io",
+      "category": "Coding",
+      "key_word": "resonance",
+      "ref_level": 0.575,
+      "add_date": "2025-04-03"
+    },
+    {
+      "title": "Mapa de las emociones del ser humano - Salud - Vida - ELTIEMPO.COM",
+      "url": "https://www.eltiempo.com/vida/salud/mapa-de-las-emociones-del-ser-humano-220828",
+      "norm_url": "https://eltiempo.com/vida/salud/mapa-de-las-emociones-del-ser-humano-220828",
+      "domain": "eltiempo.com",
+      "category": "Docs",
+      "key_word": "tool",
+      "ref_level": 0.475,
+      "add_date": "2020-06-26"
+    },
+    {
+      "title": "Neuroestética - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Neuroest%C3%A9tica#Ocho_leyes_de_la_experiencia_art%C3%ADstica_de_Ramachandran",
+      "norm_url": "https://es.wikipedia.org/wiki/Neuroest%C3%A9tica",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "neuroesttica",
+      "ref_level": 0.201,
+      "add_date": "2024-04-04"
+    },
+    {
+      "title": "Plasticidad Cerebral y Neuronal, Neurogénesis. Neuroplasticidad ejercicios mentales",
+      "url": "https://www.cognifit.com/es/plasticidad-cerebral",
+      "norm_url": "https://cognifit.com/es/plasticidad-cerebral",
+      "domain": "cognifit.com",
+      "category": "Docs",
+      "key_word": "plasticidad",
+      "ref_level": 0.735,
+      "add_date": "2020-01-05"
+    },
+    {
+      "title": "Cyborgs | Los nuevos procesos subjetivos y sociales de adaptación | epsys",
+      "url": "http://www.eepsys.com/es/cyborgs-los-nuevos-procesos-subjetivos-y-sociales-de-adaptacion/",
+      "norm_url": "http://eepsys.com/es/cyborgs-los-nuevos-procesos-subjetivos-y-sociales-de-adaptacion",
+      "domain": "eepsys.com",
+      "category": "Docs",
+      "key_word": "cyborgs",
+      "ref_level": 0.623,
+      "add_date": "2024-07-11"
+    },
+    {
+      "title": "El Cuerpo Mediático | Topía",
+      "url": "https://www.topia.com.ar/articulos/el-cuerpo-medi%C3%A1tico",
+      "norm_url": "https://topia.com.ar/articulos/el-cuerpo-medi%C3%A1tico",
+      "domain": "topia.com.ar",
+      "category": "Docs",
+      "key_word": "body",
+      "ref_level": 0.601,
+      "add_date": "2023-05-02"
+    },
+    {
+      "title": "Facial Action Coding System (FACS) - A Visual Guidebook",
+      "url": "https://imotions.com/blog/facial-action-coding-system/",
+      "norm_url": "https://imotions.com/blog/facial-action-coding-system",
+      "domain": "imotions.com",
+      "category": "Docs",
+      "key_word": "facial_code",
+      "ref_level": 0.689,
+      "add_date": "2020-12-30"
+    },
+    {
+      "title": "El transhumanismo: un materialismo gnóstico que quiere implementar un plan para evacuar el cuerpo y la realidad",
+      "url": "https://pijamasurf.com/2019/04/el_transhumanismo_un_materialismo_gnostico_que_quiere_implementar_un_plan_para_evacuar_el_cuerpo_y_la_realidad/",
+      "norm_url": "https://pijamasurf.com/2019/04/el_transhumanismo_un_materialismo_gnostico_que_quiere_implementar_un_plan_para_evacuar_el_cuerpo_y_la_realidad",
+      "domain": "pijamasurf.com",
+      "category": "Docs",
+      "key_word": "transhumanism",
+      "ref_level": 0.738,
+      "add_date": "2022-03-24"
+    },
+    {
+      "title": "Cyborgs: cómo viven los sorprendentes \"humanos del futuro\" - Infobae",
+      "url": "https://www.infobae.com/tendencias/innovacion/2017/04/29/cyborgs-como-viven-los-sorprendentes-humanos-del-futuro/",
+      "norm_url": "https://infobae.com/tendencias/innovacion/2017/04/29/cyborgs-como-viven-los-sorprendentes-humanos-del-futuro",
+      "domain": "infobae.com",
+      "category": "Docs",
+      "key_word": "cyborgs",
+      "ref_level": 0.176,
+      "add_date": "2025-12-24"
+    },
+    {
+      "title": "Dentro y fuera del cubo blanco – [esferapública]",
+      "url": "http://esferapublica.org/nfblog/dentro-y-fuera-del-cubo-blanco-1/",
+      "norm_url": "http://esferapublica.org/nfblog/dentro-y-fuera-del-cubo-blanco-1",
+      "domain": "esferapublica.org",
+      "category": "Docs",
+      "key_word": "dentro",
+      "ref_level": 0.252,
+      "add_date": "2021-10-09"
+    },
+    {
+      "title": "Getting Started with Vuforia for Android Development",
+      "url": "https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html",
+      "norm_url": "https://library.vuforia.com/articles/Solution/Getting-Started-with-Vuforia-for-Android-Development.html",
+      "domain": "library.vuforia.com",
+      "category": "Tools",
+      "key_word": "art",
+      "ref_level": 0.696,
+      "add_date": "2024-07-13"
+    },
+    {
+      "title": "Como crear una aplicación de realidad aumentada para Android con Unity y Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=_RlyFsjRLTw",
+      "norm_url": "https://youtube.com/watch?v=_RlyFsjRLTw",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.769,
+      "add_date": "2021-02-23"
+    },
+    {
+      "title": "Historia de la Prótesis y Órtesis timeline | Timetoast timelines",
+      "url": "https://www.timetoast.com/timelines/protesis-ad38fc97-8857-447b-9fe5-ee10a0a06b3d",
+      "norm_url": "https://timetoast.com/timelines/protesis-ad38fc97-8857-447b-9fe5-ee10a0a06b3d",
+      "domain": "timetoast.com",
+      "category": "Docs",
+      "key_word": "historia",
+      "ref_level": 0.393,
+      "add_date": "2021-02-23"
+    },
+    {
+      "title": "How to set up Android SDK + JDK with Unity 2018 - YouTube",
+      "url": "https://www.youtube.com/watch?v=ojt7ITyklGk",
+      "norm_url": "https://youtube.com/watch?v=ojt7ITyklGk",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.198,
+      "add_date": "2021-08-02"
+    },
+    {
+      "title": "Ambrose Bierce-1 - Ambrose Bierce - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Ambrose_Bierce",
+      "norm_url": "https://es.wikipedia.org/wiki/Ambrose_Bierce",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "ambrose",
+      "ref_level": 0.71,
+      "add_date": "2023-09-18"
+    },
+    {
+      "title": "Tutorial: Diseñar un interfaz de UI en Unity 2019 - YouTube",
+      "url": "https://www.youtube.com/watch?v=EDh2DGgSN1Y",
+      "norm_url": "https://youtube.com/watch?v=EDh2DGgSN1Y",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.243,
+      "add_date": "2020-09-30"
+    },
+    {
+      "title": "Como crear una aplicación móvil de Realidad Aumentada (AR) capaz de leer varios targets utilizando… - Medium",
+      "url": "https://medium.com/@LeAL25/como-crear-una-aplicaci%C3%B3n-m%C3%B3vil-de-realidad-aumentada-ar-capaz-de-leer-varios-targets-utilizando-c849c3a6a756",
+      "norm_url": "https://medium.com/@LeAL25/como-crear-una-aplicaci%C3%B3n-m%C3%B3vil-de-realidad-aumentada-ar-capaz-de-leer-varios-targets-utilizando-c849c3a6a756",
+      "domain": "medium.com",
+      "category": "Coding",
+      "key_word": "como",
+      "ref_level": 0.171,
+      "add_date": "2022-11-02"
+    },
+    {
+      "title": "OBJECT RECOGNITION WITH VUFORIA 6.5 & UNITY 2017.2 | AUGMENTED REALITY TUTORIAL FOR BEGINNER🚗 - YouTube",
+      "url": "https://www.youtube.com/watch?v=uHyw17v-AWY",
+      "norm_url": "https://youtube.com/watch?v=uHyw17v-AWY",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.132,
+      "add_date": "2025-03-12"
+    },
+    {
+      "title": "Realidad Aumentada del Estilo de Pokémon GO con Vuforia",
+      "url": "https://code.tutsplus.com/es/tutorials/introducing-augmented-reality-with-vuforia--cms-27160",
+      "norm_url": "https://code.tutsplus.com/es/tutorials/introducing-augmented-reality-with-vuforia--cms-27160",
+      "domain": "code.tutsplus.com",
+      "category": "Coding",
+      "key_word": "realidad",
+      "ref_level": 0.561,
+      "add_date": "2022-04-12"
+    },
+    {
+      "title": "Vuforia Play Video Unity | Play Video in AR App | Unity 2017.3 AR Video Vuforia | Augmented Reality - YouTube",
+      "url": "https://www.youtube.com/watch?v=HcQ7MBUw2Qo",
+      "norm_url": "https://youtube.com/watch?v=HcQ7MBUw2Qo",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.287,
+      "add_date": "2022-03-01"
+    },
+    {
+      "title": "Mesa de Guión",
+      "url": "https://mesadeguion.blogspot.com/",
+      "norm_url": "https://mesadeguion.blogspot.com/",
+      "domain": "mesadeguion.blogspot.com",
+      "category": "Docs",
+      "key_word": "mesa",
+      "ref_level": 0.272,
+      "add_date": "2021-05-27"
+    },
+    {
+      "title": "Crear Recorridos Virtuales Fácilmente con Panotour Pro - YouTube",
+      "url": "https://www.youtube.com/watch?v=7EXAx1E7fJI",
+      "norm_url": "https://youtube.com/watch?v=7EXAx1E7fJI",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.457,
+      "add_date": "2025-04-22"
+    },
+    {
+      "title": "Tutorial: Skins in Virtual Tours - YouTube",
+      "url": "https://www.youtube.com/watch?v=oYNXiidqs2E",
+      "norm_url": "https://youtube.com/watch?v=oYNXiidqs2E",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.841,
+      "add_date": "2022-06-10"
+    },
+    {
+      "title": "Tutorial AR | Varios Objetos y Marcadores en una sola App | Android | Unity + Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=Qnz6lSGQy7o",
+      "norm_url": "https://youtube.com/watch?v=Qnz6lSGQy7o",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.483,
+      "add_date": "2020-12-15"
+    },
+    {
+      "title": "Vuforia Developer Portal |",
+      "url": "https://developer.vuforia.com/",
+      "norm_url": "https://developer.vuforia.com/",
+      "domain": "developer.vuforia.com",
+      "category": "Tools",
+      "key_word": "vuforia",
+      "ref_level": 0.573,
+      "add_date": "2022-02-22"
+    },
+    {
+      "title": "Blender 2.8 Facial motion capture tutorial - YouTube",
+      "url": "https://www.youtube.com/watch?v=uNK8S19OSmA",
+      "norm_url": "https://youtube.com/watch?v=uNK8S19OSmA",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.504,
+      "add_date": "2020-09-03"
+    },
+    {
+      "title": "Arte y cibercultura | ¿Cómo es el arte de la cibercultura?",
+      "url": "https://arteycibercultura.wordpress.com/",
+      "norm_url": "https://arteycibercultura.wordpress.com/",
+      "domain": "arteycibercultura.wordpress.com",
+      "category": "Art",
+      "key_word": "art",
+      "ref_level": 0.391,
+      "add_date": "2025-02-13"
+    },
+    {
+      "title": "Illustrator | CLASE MAGISTRAL DE ILUSTRACIÓN #1 | ILLUSTRATION MASTER CLASS #1 - YouTube",
+      "url": "https://www.youtube.com/watch?v=AqkpHlh7aUQ",
+      "norm_url": "https://youtube.com/watch?v=AqkpHlh7aUQ",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "illustrator",
+      "ref_level": 0.22,
+      "add_date": "2020-04-11"
+    },
+    {
+      "title": "Cómo y por qué estudiamos la vida cotidiana con Michel de Certeau – LA TORRE DEL VIRREY",
+      "url": "https://www.latorredelvirrey.es/como-y-por-que-estudiamos-la-vida-cotidiana-con-michel-de-certeau/",
+      "norm_url": "https://latorredelvirrey.es/como-y-por-que-estudiamos-la-vida-cotidiana-con-michel-de-certeau",
+      "domain": "latorredelvirrey.es",
+      "category": "Docs",
+      "key_word": "cmo",
+      "ref_level": 0.258,
+      "add_date": "2023-03-09"
+    },
+    {
+      "title": "Mostrar para decir: la imagen en contexto - Jordi Pericot, Jordi Pericot i Canaleta - Google Libros",
+      "url": "https://books.google.com.co/books?id=amJGjq5mhhEC&pg=PA70&lpg=PA70&dq=mundo+sinecdotico&source=bl&ots=QR2BXf4CqQ&sig=ACfU3U3cFHRPcFY9CAYNkQUEuUjjKMT9qw&hl=es-419&sa=X&ved=2ahUKEwjJnMvSsdvjAhXiuFkKHSOwDKMQ6AEwAXoECAkQAQ#v=onepage&q=mundo%20sinecdotico&f=false",
+      "norm_url": "https://books.google.com.co/books?id=amJGjq5mhhEC&pg=PA70&lpg=PA70&dq=mundo+sinecdotico&source=bl&ots=QR2BXf4CqQ&sig=ACfU3U3cFHRPcFY9CAYNkQUEuUjjKMT9qw&hl=es-419&sa=X&ved=2ahUKEwjJnMvSsdvjAhXiuFkKHSOwDKMQ6AEwAXoECAkQAQ",
+      "domain": "books.google.com.co",
+      "category": "Docs",
+      "key_word": "mostrar",
+      "ref_level": 0.571,
+      "add_date": "2022-02-10"
+    },
+    {
+      "title": "Getting Started With 360 Video - Introduction [1/08] Live 2018/03/01 - YouTube",
+      "url": "https://www.youtube.com/watch?v=UroMw97Wk6Y",
+      "norm_url": "https://youtube.com/watch?v=UroMw97Wk6Y",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.813,
+      "add_date": "2021-01-17"
+    },
+    {
+      "title": "Blender: ANIMACIÓN de un PERSONAJE #1 Introducción al RIGGING - YouTube",
+      "url": "https://www.youtube.com/watch?v=4w6xVfyo5KM",
+      "norm_url": "https://youtube.com/watch?v=4w6xVfyo5KM",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.943,
+      "add_date": "2021-08-08"
+    },
+    {
+      "title": "La interfaz gráfica",
+      "url": "http://www.hipertexto.info/documentos/interfaz.htm",
+      "norm_url": "http://hipertexto.info/documentos/interfaz.htm",
+      "domain": "hipertexto.info",
+      "category": "Docs",
+      "key_word": "interfaz",
+      "ref_level": 0.312,
+      "add_date": "2023-09-11"
+    },
+    {
+      "title": "¿Qué es el New Media Art? Una Aproximación terminológica | MARISA GÓMEZ | Interartive | Contemporary Art + Thought",
+      "url": "http://interartive.org/2012/04/new-media-art-termino/",
+      "norm_url": "http://interartive.org/2012/04/new-media-art-termino",
+      "domain": "interartive.org",
+      "category": "Art",
+      "key_word": "art",
+      "ref_level": 0.466,
+      "add_date": "2022-04-02"
+    },
+    {
+      "title": "Importar objetos y animaciones de Blender a Unity - YouTube",
+      "url": "https://www.youtube.com/watch?v=CWs_rOxHeMw",
+      "norm_url": "https://youtube.com/watch?v=CWs_rOxHeMw",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.47,
+      "add_date": "2021-01-29"
+    },
+    {
+      "title": "Augmented Reality Tutorial No. 32: User Inteface for Augmented Reality using Unity3D and Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=0aE_WjB2urM&list=PLsindjZT6412wowKaahkNWXxlX9E8ibs7&index=71",
+      "norm_url": "https://youtube.com/watch?v=0aE_WjB2urM&list=PLsindjZT6412wowKaahkNWXxlX9E8ibs7&index=71",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.733,
+      "add_date": "2023-01-15"
+    },
+    {
+      "title": "Augmented reality programming | Our Tech Art",
+      "url": "https://www.ourtechart.com/augmented-reality/",
+      "norm_url": "https://ourtechart.com/augmented-reality",
+      "domain": "ourtechart.com",
+      "category": "Coding",
+      "key_word": "code",
+      "ref_level": 0.244,
+      "add_date": "2022-12-15"
+    },
+    {
+      "title": "Unidades de Medida de Almacenamiento de Información",
+      "url": "https://unidadesdealmacenamientodeinformacion.blogspot.com/",
+      "norm_url": "https://unidadesdealmacenamientodeinformacion.blogspot.com/",
+      "domain": "unidadesdealmacenamientodeinformacion.blogspot.com",
+      "category": "Docs",
+      "key_word": "unidades",
+      "ref_level": 0.5,
+      "add_date": "2022-12-21"
+    },
+    {
+      "title": "How To Augmented Reality App Tutorial Virtual Buttons with Unity and Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=Fgd21lbhikU",
+      "norm_url": "https://youtube.com/watch?v=Fgd21lbhikU",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.49,
+      "add_date": "2024-01-26"
+    },
+    {
+      "title": "Tutorial Unity3d : Vuforia Play Video ( Augmented Reality) - YouTube",
+      "url": "https://www.youtube.com/watch?v=q3LmB8Os1wE",
+      "norm_url": "https://youtube.com/watch?v=q3LmB8Os1wE",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.401,
+      "add_date": "2022-05-20"
+    },
+    {
+      "title": "Creando una app de Realidad aumentada con botones mediante Unity y Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=5UNDUbB3zoI",
+      "norm_url": "https://youtube.com/watch?v=5UNDUbB3zoI",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.351,
+      "add_date": "2025-12-09"
+    },
+    {
+      "title": "Mostrar y ocultar contenido usando botones - YouTube",
+      "url": "https://www.youtube.com/watch?v=HsrbVbwPKeE",
+      "norm_url": "https://youtube.com/watch?v=HsrbVbwPKeE",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.154,
+      "add_date": "2023-11-08"
+    },
+    {
+      "title": "Tutorial de realidad aumentada: Interactuar con modelos 3d - ARtoolkit - Unity3d - YouTube",
+      "url": "https://www.youtube.com/watch?v=Mdcd6jv3CAU",
+      "norm_url": "https://youtube.com/watch?v=Mdcd6jv3CAU",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.578,
+      "add_date": "2022-07-31"
+    },
+    {
+      "title": "tutorial Unity and vuforia Augmented reality model 3d move forward - YouTube",
+      "url": "https://www.youtube.com/watch?v=VHLhmfZFv3A",
+      "norm_url": "https://youtube.com/watch?v=VHLhmfZFv3A",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.418,
+      "add_date": "2025-01-03"
+    },
+    {
+      "title": "(71) Augmented Reality - Play Sound Automaticaly When Target Found Then Stop When Target Lost - YouTube",
+      "url": "https://www.youtube.com/watch?v=KSrakCRTrzg&list=PLsindjZT6412wowKaahkNWXxlX9E8ibs7&index=7",
+      "norm_url": "https://youtube.com/watch?v=KSrakCRTrzg&list=PLsindjZT6412wowKaahkNWXxlX9E8ibs7&index=7",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.231,
+      "add_date": "2024-02-05"
+    },
+    {
+      "title": "Ergonometría Áurea, basados en el número Fi, una propuesta práctica de denominar y modular las distancias del cuerpo humano, orientado a su uso en la arquitectura y urbanismo, por IBO Bonilla",
+      "url": "http://iboenweb.com/ibo/docs/ergonometria_aurea.html",
+      "norm_url": "http://iboenweb.com/ibo/docs/ergonometria_aurea.html",
+      "domain": "iboenweb.com",
+      "category": "Docs",
+      "key_word": "docs",
+      "ref_level": 0.169,
+      "add_date": "2024-11-08"
+    },
+    {
+      "title": "Tutorial Audio y Video en Unity y vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=2mGz_P7m57c",
+      "norm_url": "https://youtube.com/watch?v=2mGz_P7m57c",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.597,
+      "add_date": "2023-12-14"
+    },
+    {
+      "title": "Manual anarquista de preparación artística – [esferapública]",
+      "url": "https://esferapublica.org/nfblog/manual-anarquista-de-preparacion-artistica/",
+      "norm_url": "https://esferapublica.org/nfblog/manual-anarquista-de-preparacion-artistica",
+      "domain": "esferapublica.org",
+      "category": "Docs",
+      "key_word": "manual",
+      "ref_level": 0.223,
+      "add_date": "2025-04-08"
+    },
+    {
+      "title": "Luis Camnitzer: ¿Dónde está el genio? – [esferapública]",
+      "url": "https://esferapublica.org/nfblog/luis-camnitzer-donde-esta-el-genio/",
+      "norm_url": "https://esferapublica.org/nfblog/luis-camnitzer-donde-esta-el-genio",
+      "domain": "esferapublica.org",
+      "category": "Docs",
+      "key_word": "luis",
+      "ref_level": 0.307,
+      "add_date": "2023-08-01"
+    },
+    {
+      "title": "Amberes | Revista Cultural",
+      "url": "http://amberesrevista.com/",
+      "norm_url": "http://amberesrevista.com/",
+      "domain": "amberesrevista.com",
+      "category": "Docs",
+      "key_word": "amberes",
+      "ref_level": 0.377,
+      "add_date": "2021-05-26"
+    },
+    {
+      "title": "Giros epistemológicos de las artes - VV.AA [J.A.Conderana (coord.)] - Ediciones Asimétricas",
+      "url": "https://edicionesasimetricas.com/Giros-epistemologicos-de-las-artes-VVAA-JAConderana-coord",
+      "norm_url": "https://edicionesasimetricas.com/Giros-epistemologicos-de-las-artes-VVAA-JAConderana-coord",
+      "domain": "edicionesasimetricas.com",
+      "category": "Art",
+      "key_word": "epistemology",
+      "ref_level": 0.794,
+      "add_date": "2024-10-20"
+    },
+    {
+      "title": "EMULADOR DE NINTENDO SWITCH - YUZU | Guia de Configuración - YouTube",
+      "url": "https://www.youtube.com/watch?v=BQjM6FzxyHw",
+      "norm_url": "https://youtube.com/watch?v=BQjM6FzxyHw",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.584,
+      "add_date": "2022-09-04"
+    },
+    {
+      "title": "revistasterisco.org",
+      "url": "http://revistasterisco.org/",
+      "norm_url": "http://revistasterisco.org/",
+      "domain": "revistasterisco.org",
+      "category": "Docs",
+      "key_word": "revistasterisco",
+      "ref_level": 0.115,
+      "add_date": "2020-06-10"
+    },
+    {
+      "title": "Universidad Nacional de Colombia : Facultad de Arquitectura - Sede Medellín - Escuela de Artes",
+      "url": "https://arquitectura.medellin.unal.edu.co/27-institucional/59-escuela-de-artes.html",
+      "norm_url": "https://arquitectura.medellin.unal.edu.co/27-institucional/59-escuela-de-artes.html",
+      "domain": "arquitectura.medellin.unal.edu.co",
+      "category": "Miscellany",
+      "key_word": "art_degree",
+      "ref_level": 0.193,
+      "add_date": "2021-01-22"
+    },
+    {
+      "title": "El arte como lenguaje, I | Revista Replicante",
+      "url": "https://revistareplicante.com/el-arte-como-lenguaje/",
+      "norm_url": "https://revistareplicante.com/el-arte-como-lenguaje",
+      "domain": "revistareplicante.com",
+      "category": "Art",
+      "key_word": "art_language",
+      "ref_level": 0.606,
+      "add_date": "2022-04-03"
+    },
+    {
+      "title": "Mir Imad - YouTube",
+      "url": "https://www.youtube.com/channel/UCwNgJwTQzF_G24McNZtn2BQ",
+      "norm_url": "https://youtube.com/channel/UCwNgJwTQzF_G24McNZtn2BQ",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.327,
+      "add_date": "2025-01-21"
+    },
+    {
+      "title": "Augmented Reality Tutorial - Video Playback Vuforia With Scaling For Android - YouTube",
+      "url": "https://www.youtube.com/watch?v=-Ii5lsOl_Ww&list=PLsindjZT6412wowKaahkNWXxlX9E8ibs7&index=13",
+      "norm_url": "https://youtube.com/watch?v=-Ii5lsOl_Ww&list=PLsindjZT6412wowKaahkNWXxlX9E8ibs7&index=13",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.704,
+      "add_date": "2021-02-09"
+    },
+    {
+      "title": "Como usar imágenes .gif en unity 3D - YouTube",
+      "url": "https://www.youtube.com/watch?v=K00twV0Ax5U",
+      "norm_url": "https://youtube.com/watch?v=K00twV0Ax5U",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.947,
+      "add_date": "2022-06-01"
+    },
+    {
+      "title": "Continuo de la virtualidad - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Continuo_de_la_virtualidad",
+      "norm_url": "https://es.wikipedia.org/wiki/Continuo_de_la_virtualidad",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "continuo_virtual",
+      "ref_level": 0.492,
+      "add_date": "2022-08-30"
+    },
+    {
+      "title": "Cave Automatic Virtual Environment - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Cave_Automatic_Virtual_Environment",
+      "norm_url": "https://es.wikipedia.org/wiki/Cave_Automatic_Virtual_Environment",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "cave",
+      "ref_level": 0.924,
+      "add_date": "2024-05-15"
+    },
+    {
+      "title": "Cave automatic virtual environment - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment",
+      "norm_url": "https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment",
+      "domain": "en.wikipedia.org",
+      "category": "Docs",
+      "key_word": "cave",
+      "ref_level": 0.16,
+      "add_date": "2021-07-16"
+    },
+    {
+      "title": "Tecnologías multimedia e interacción/Realidad Virtual - Wikiversidad",
+      "url": "https://es.wikiversity.org/wiki/Tecnolog%C3%ADas_multimedia_e_interacci%C3%B3n/Realidad_Virtual",
+      "norm_url": "https://es.wikiversity.org/wiki/Tecnolog%C3%ADas_multimedia_e_interacci%C3%B3n/Realidad_Virtual",
+      "domain": "es.wikiversity.org",
+      "category": "Docs",
+      "key_word": "tecnologas_multimedia",
+      "ref_level": 0.492,
+      "add_date": "2025-08-22"
+    },
+    {
+      "title": "Best Text-to-Speech Demo: Create Talking Avatars and Online Characters | Oddcast TTS Demo",
+      "url": "http://ttsdemo.com/",
+      "norm_url": "http://ttsdemo.com/",
+      "domain": "ttsdemo.com",
+      "category": "Tools",
+      "key_word": "speech_avatars",
+      "ref_level": 0.81,
+      "add_date": "2021-07-14"
+    },
+    {
+      "title": "Demo TTS online Nuance Vocalizer Expressive",
+      "url": "http://nuancevocalizerexpressive.sodels.com/",
+      "norm_url": "http://nuancevocalizerexpressive.sodels.com/",
+      "domain": "nuancevocalizerexpressive.sodels.com",
+      "category": "Tools",
+      "key_word": "demo",
+      "ref_level": 0.735,
+      "add_date": "2022-10-05"
+    },
+    {
+      "title": "Augmented Reality - How To Make Move Rotate Scale Object Unity - YouTube",
+      "url": "https://www.youtube.com/watch?v=5ZRgiATeYDc",
+      "norm_url": "https://youtube.com/watch?v=5ZRgiATeYDc",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.601,
+      "add_date": "2025-05-09"
+    },
+    {
+      "title": "Day 10: Working with Multitarget (Cuboid Target) AR with unity and vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=2SOCFqK67LA",
+      "norm_url": "https://youtube.com/watch?v=2SOCFqK67LA",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.999,
+      "add_date": "2023-11-28"
+    },
+    {
+      "title": "Character Creator - Free Trial",
+      "url": "https://www.reallusion.com/character-creator/download.html",
+      "norm_url": "https://reallusion.com/character-creator/download.html",
+      "domain": "reallusion.com",
+      "category": "Tools",
+      "key_word": "character",
+      "ref_level": 0.96,
+      "add_date": "2023-05-11"
+    },
+    {
+      "title": "Pierre Bourdieu - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Pierre_Bourdieu#Campo",
+      "norm_url": "https://es.wikipedia.org/wiki/Pierre_Bourdieu",
+      "domain": "es.wikipedia.org",
+      "category": "Art",
+      "key_word": "pierre",
+      "ref_level": 0.235,
+      "add_date": "2021-02-25"
+    },
+    {
+      "title": "Capital cultural (sociología) - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Capital_cultural_(sociolog%C3%ADa)",
+      "norm_url": "https://es.wikipedia.org/wiki/Capital_cultural_(sociolog%C3%ADa)",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "cultura_capital",
+      "ref_level": 0.865,
+      "add_date": "2022-01-02"
+    },
+    {
+      "title": "Campo (sociología) - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Campo_(sociolog%C3%ADa)",
+      "norm_url": "https://es.wikipedia.org/wiki/Campo_(sociolog%C3%ADa)",
+      "domain": "es.wikipedia.org",
+      "category": "Docs",
+      "key_word": "campo",
+      "ref_level": 0.537,
+      "add_date": "2024-09-30"
+    },
+    {
+      "title": "como hacer un menú principal con canvas en unity5 (1/3) (fácil para todos) - YouTube",
+      "url": "https://www.youtube.com/watch?v=qGaohjCIAt8",
+      "norm_url": "https://youtube.com/watch?v=qGaohjCIAt8",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.946,
+      "add_date": "2021-01-31"
+    },
+    {
+      "title": "F209 Audio en Realidad Aumentada - YouTube",
+      "url": "https://www.youtube.com/watch?v=r3P5qMBug08",
+      "norm_url": "https://youtube.com/watch?v=r3P5qMBug08",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.148,
+      "add_date": "2025-10-14"
+    },
+    {
+      "title": "Como abrir enlaces desde unity | Tutorial programación unity3d - YouTube",
+      "url": "https://www.youtube.com/watch?v=AsIRKMbV0PY",
+      "norm_url": "https://youtube.com/watch?v=AsIRKMbV0PY",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.257,
+      "add_date": "2025-08-24"
+    },
+    {
+      "title": "Firmware Downloads - All Official Android & Samsung Firmware Updates",
+      "url": "https://updato.com/firmware-archive-select-model/?record=7387ED9D0C5A11E99F15FA163EE8F90B",
+      "norm_url": "https://updato.com/firmware-archive-select-model?record=7387ED9D0C5A11E99F15FA163EE8F90B",
+      "domain": "updato.com",
+      "category": "Tools",
+      "key_word": "firmware",
+      "ref_level": 0.597,
+      "add_date": "2025-11-05"
+    },
+    {
+      "title": "▶︎Como Solucionar Custom Binary by FAP, FRP Lock Cualquier Samsung Galaxy◀︎Denek32 - YouTube",
+      "url": "https://www.youtube.com/watch?v=BS7DJorOPe0",
+      "norm_url": "https://youtube.com/watch?v=BS7DJorOPe0",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.708,
+      "add_date": "2023-09-28"
+    },
+    {
+      "title": "[Tutorial] Unity3d - 360 Virtual Tour - YouTube",
+      "url": "https://www.youtube.com/watch?v=2q9wc9Y35wg",
+      "norm_url": "https://youtube.com/watch?v=2q9wc9Y35wg",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.856,
+      "add_date": "2024-12-31"
+    },
+    {
+      "title": "GitHub - realitypipe/virtual-tour-app-unity: Creating virtual tours using hotspots in Unity3D",
+      "url": "https://github.com/realitypipe/virtual-tour-app-unity",
+      "norm_url": "https://github.com/realitypipe/virtual-tour-app-unity",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.183,
+      "add_date": "2023-02-13"
+    },
+    {
+      "title": "Virtual Buttons Tutorial: Unity + Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=4EcrDnbaGgE",
+      "norm_url": "https://youtube.com/watch?v=4EcrDnbaGgE",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.745,
+      "add_date": "2026-02-07"
+    },
+    {
+      "title": "Transiciones Glitch en Premiere Pro || Tutorial - YouTube",
+      "url": "https://www.youtube.com/watch?v=GGe5Ixs5WLs",
+      "norm_url": "https://youtube.com/watch?v=GGe5Ixs5WLs",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "premiere",
+      "ref_level": 0.435,
+      "add_date": "2021-02-04"
+    },
+    {
+      "title": "Carmen Gil Vrolijk – Voltaje",
+      "url": "http://voltaje.co/team-member/carmen-gil-vrolijk/",
+      "norm_url": "http://voltaje.co/team-member/carmen-gil-vrolijk",
+      "domain": "voltaje.co",
+      "category": "Art",
+      "key_word": "carmen",
+      "ref_level": 0.126,
+      "add_date": "2025-08-04"
+    },
+    {
+      "title": "Sketchfab - Publish & find 3D models online",
+      "url": "https://sketchfab.com/",
+      "norm_url": "https://sketchfab.com/",
+      "domain": "sketchfab.com",
+      "category": "Tools",
+      "key_word": "sketchfab",
+      "ref_level": 0.931,
+      "add_date": "2023-02-19"
+    },
+    {
+      "title": "OpenCV Python Tutorial For Beginners 1 - Introduction to OpenCV - YouTube",
+      "url": "https://www.youtube.com/watch?v=kdLM6AOd2vc",
+      "norm_url": "https://youtube.com/watch?v=kdLM6AOd2vc",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "python",
+      "ref_level": 0.725,
+      "add_date": "2020-06-16"
+    },
+    {
+      "title": "Curso Android desde cero #1 | Introducción e instalación del IDE Android Studio - YouTube",
+      "url": "https://www.youtube.com/watch?v=sILYPMvXDvY",
+      "norm_url": "https://youtube.com/watch?v=sILYPMvXDvY",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.709,
+      "add_date": "2025-09-08"
+    },
+    {
+      "title": "andres burbano works",
+      "url": "http://www.burbane.net/html/artworks.htm",
+      "norm_url": "http://burbane.net/html/artworks.htm",
+      "domain": "burbane.net",
+      "category": "Art",
+      "key_word": "andres",
+      "ref_level": 0.499,
+      "add_date": "2023-04-10"
+    },
+    {
+      "title": "Sobre el socialismo de la creatividad - Luis Camnitzer - YouTube",
+      "url": "https://www.youtube.com/watch?v=yV4u8Fo8jNk",
+      "norm_url": "https://youtube.com/watch?v=yV4u8Fo8jNk",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.508,
+      "add_date": "2021-12-13"
+    },
+    {
+      "title": "Curso Python. Interfaces gráficas I. Vídeo 42 - YouTube",
+      "url": "https://www.youtube.com/watch?v=hTUJC8HsC2I",
+      "norm_url": "https://youtube.com/watch?v=hTUJC8HsC2I",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "python",
+      "ref_level": 0.987,
+      "add_date": "2023-10-20"
+    },
+    {
+      "title": "¿Qué es la programacion orientada a objetos? - YouTube",
+      "url": "https://www.youtube.com/watch?v=DlphYPc_HKk",
+      "norm_url": "https://youtube.com/watch?v=DlphYPc_HKk",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.584,
+      "add_date": "2021-04-10"
+    },
+    {
+      "title": "“Mi arte es mi forma de hacer política” | Letras Libres",
+      "url": "https://www.letraslibres.com/mexico-espana/mi-arte-es-mi-forma-hacer-politica",
+      "norm_url": "https://letraslibres.com/mexico-espana/mi-arte-es-mi-forma-hacer-politica",
+      "domain": "letraslibres.com",
+      "category": "Art",
+      "key_word": "art",
+      "ref_level": 0.198,
+      "add_date": "2025-08-09"
+    },
+    {
+      "title": "Rayuela",
+      "url": "http://moebio.com/research/rayuela/",
+      "norm_url": "http://moebio.com/research/rayuela",
+      "domain": "moebio.com",
+      "category": "Art",
+      "key_word": "rayuela",
+      "ref_level": 0.171,
+      "add_date": "2020-08-18"
+    },
+    {
+      "title": "Carmen Gil Vrolijk",
+      "url": "http://carmenelectric.net/",
+      "norm_url": "http://carmenelectric.net/",
+      "domain": "carmenelectric.net",
+      "category": "Art",
+      "key_word": "carmen",
+      "ref_level": 0.644,
+      "add_date": "2023-08-21"
+    },
+    {
+      "title": "De cambiar una obra a sentarse en sillas con resortes: juegos en la muestra de Julio Le Parc - 01/10/2019 - Clarín.com",
+      "url": "https://www.clarin.com/cultura/cambiar-obra-sentarse-sillas-resortes-juegos-muestra-julio-parc_0_m-00S4EF.html",
+      "norm_url": "https://clarin.com/cultura/cambiar-obra-sentarse-sillas-resortes-juegos-muestra-julio-parc_0_m-00S4EF.html",
+      "domain": "clarin.com",
+      "category": "Art",
+      "key_word": "cambiar",
+      "ref_level": 0.998,
+      "add_date": "2022-08-11"
+    },
+    {
+      "title": "Visión Le Parc en Casa Naranja: luz, arte y movimiento | ::Hipermedula.org",
+      "url": "http://hipermedula.org/2018/09/vision-le-parc-luz-arte-y-movimiento/",
+      "norm_url": "http://hipermedula.org/2018/09/vision-le-parc-luz-arte-y-movimiento",
+      "domain": "hipermedula.org",
+      "category": "Art",
+      "key_word": "art",
+      "ref_level": 0.264,
+      "add_date": "2022-02-05"
+    },
+    {
+      "title": "(7) Entrevista con Luis Camnitzer / Interview with Luis Camnitzer - YouTube",
+      "url": "https://www.youtube.com/watch?v=75raNgnCgnU",
+      "norm_url": "https://youtube.com/watch?v=75raNgnCgnU",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.821,
+      "add_date": "2023-04-26"
+    },
+    {
+      "title": "AliceVision | Photogrammetric Computer Vision Framework",
+      "url": "https://alicevision.org/",
+      "norm_url": "https://alicevision.org/",
+      "domain": "alicevision.org",
+      "category": "Tools",
+      "key_word": "framework",
+      "ref_level": 0.997,
+      "add_date": "2022-11-20"
+    },
+    {
+      "title": "Convierte tu móvil en un escáner 3D | Fotogrametría con Tu Rincón 3D - YouTube",
+      "url": "https://www.youtube.com/watch?v=QmfqlJkRPU0",
+      "norm_url": "https://youtube.com/watch?v=QmfqlJkRPU0",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.64,
+      "add_date": "2023-03-28"
+    },
+    {
+      "title": "Neil Harbisson: Retratos Sonoros – Sinestesia Creativa",
+      "url": "http://sinestesiacreativa.es/es/sinestesia-creativa/neil-harbisson-retratos-sonoros/",
+      "norm_url": "http://sinestesiacreativa.es/es/sinestesia-creativa/neil-harbisson-retratos-sonoros",
+      "domain": "sinestesiacreativa.es",
+      "category": "Art",
+      "key_word": "neil",
+      "ref_level": 0.425,
+      "add_date": "2020-10-28"
+    },
+    {
+      "title": "¿¿Quién Es Neil Harbisson?? | Feel the Brain",
+      "url": "https://feelthebrain.me/2017/09/24/quien-es-neil-harbisson/",
+      "norm_url": "https://feelthebrain.me/2017/09/24/quien-es-neil-harbisson",
+      "domain": "feelthebrain.me",
+      "category": "Art",
+      "key_word": "quin",
+      "ref_level": 0.267,
+      "add_date": "2022-02-28"
+    },
+    {
+      "title": "final_project_base_04 : Built with Processing",
+      "url": "https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/proj3/andres_applet/index.html",
+      "norm_url": "https://mat.ucsb.edu/~g.legrady/academic/courses/09w259/proj3/andres_applet/index.html",
+      "domain": "mat.ucsb.edu",
+      "category": "Coding",
+      "key_word": "processing",
+      "ref_level": 0.904,
+      "add_date": "2024-07-14"
+    },
+    {
+      "title": "G+Q",
+      "url": "http://moebio.com/santiago/G+Q/",
+      "norm_url": "http://moebio.com/santiago/G+Q",
+      "domain": "moebio.com",
+      "category": "Art",
+      "key_word": "moebio",
+      "ref_level": 0.392,
+      "add_date": "2025-05-23"
+    },
+    {
+      "title": "Personalizar el Splash Screen - Videotutoriales de Unity - YouTube",
+      "url": "https://www.youtube.com/watch?v=yK-PaMa3wC8",
+      "norm_url": "https://youtube.com/watch?v=yK-PaMa3wC8",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.256,
+      "add_date": "2024-07-26"
+    },
+    {
+      "title": "Convocatoria Salón Visual Bacánika 2019 - Revista Bacánika",
+      "url": "https://www.bacanika.com/seccion-convocatorias/convocatoria-salon-visual-bacanika-2019.html",
+      "norm_url": "https://bacanika.com/seccion-convocatorias/convocatoria-salon-visual-bacanika-2019.html",
+      "domain": "bacanika.com",
+      "category": "Art",
+      "key_word": "convocatoria",
+      "ref_level": 0.873,
+      "add_date": "2025-04-03"
+    },
+    {
+      "title": "Becoming, Venice Architecture Biennale | bestiario_",
+      "url": "http://bestiario.org/project/bienal_becoming",
+      "norm_url": "http://bestiario.org/project/bienal_becoming",
+      "domain": "bestiario.org",
+      "category": "Art",
+      "key_word": "becoming",
+      "ref_level": 0.833,
+      "add_date": "2025-06-17"
+    },
+    {
+      "title": "bestiario_",
+      "url": "http://bestiario.org/index",
+      "norm_url": "http://bestiario.org/index",
+      "domain": "bestiario.org",
+      "category": "Art",
+      "key_word": "bestiario",
+      "ref_level": 0.91,
+      "add_date": "2020-01-16"
+    },
+    {
+      "title": "Home | CYBORG ARTS",
+      "url": "https://www.cyborgarts.com/",
+      "norm_url": "https://cyborgarts.com/",
+      "domain": "cyborgarts.com",
+      "category": "Art",
+      "key_word": "art",
+      "ref_level": 0.856,
+      "add_date": "2025-08-28"
+    },
+    {
+      "title": "¿Quién es el verdadero dueño del cuerpo de un cyborg? - BBC News Mundo",
+      "url": "https://www.bbc.com/mundo/noticias/2014/01/140109_cyborg_tecnologia_finde_lp",
+      "norm_url": "https://bbc.com/mundo/noticias/2014/01/140109_cyborg_tecnologia_finde_lp",
+      "domain": "bbc.com",
+      "category": "Docs",
+      "key_word": "quin",
+      "ref_level": 0.183,
+      "add_date": "2023-06-13"
+    },
+    {
+      "title": "Building UI for games with the new UI Builder - Unite Copenhagen - YouTube",
+      "url": "https://www.youtube.com/watch?v=t4tfgI1XvGs",
+      "norm_url": "https://youtube.com/watch?v=t4tfgI1XvGs",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.196,
+      "add_date": "2023-02-12"
+    },
+    {
+      "title": "El Anatomista Español que se Atrevió a Rectificar a Vesalio: Juan Valverde de Amusco",
+      "url": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-95022016000300032#f2",
+      "norm_url": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-95022016000300032",
+      "domain": "scielo.conicyt.cl",
+      "category": "Docs",
+      "key_word": "anatomista",
+      "ref_level": 0.129,
+      "add_date": "2022-11-11"
+    },
+    {
+      "title": "Anatomy of a Robot: Literature, Cinema, and the Cultural Work of Artificial ... - Despina Kakoudaki - Google Libros",
+      "url": "https://books.google.es/books?hl=es&lr=&id=CaRvBAAAQBAJ&oi=fnd&pg=PR3&dq=cyborg+anatomy&ots=qBM5HrdjDe&sig=TA82QArXSNQt0FG4DdHxvpAyxCw#v=onepage&q=cyborg%20anatomy&f=false",
+      "norm_url": "https://books.google.es/books?hl=es&lr=&id=CaRvBAAAQBAJ&oi=fnd&pg=PR3&dq=cyborg+anatomy&ots=qBM5HrdjDe&sig=TA82QArXSNQt0FG4DdHxvpAyxCw",
+      "domain": "books.google.es",
+      "category": "Docs",
+      "key_word": "art",
+      "ref_level": 0.168,
+      "add_date": "2022-05-07"
+    },
+    {
+      "title": "Neil Harbisson, el cyborg que vive con una antena en la cabeza para \"escuchar\" los colores - Infobae",
+      "url": "https://www.infobae.com/america/tecno/2018/04/28/neil-harbisson-el-cyborg-que-vive-con-una-antena-en-la-cabeza-para-escuchar-los-colores/",
+      "norm_url": "https://infobae.com/america/tecno/2018/04/28/neil-harbisson-el-cyborg-que-vive-con-una-antena-en-la-cabeza-para-escuchar-los-colores",
+      "domain": "infobae.com",
+      "category": "Art",
+      "key_word": "neil",
+      "ref_level": 0.615,
+      "add_date": "2024-02-02"
+    },
+    {
+      "title": "De lo real a lo virtual desde un celular: Fotogrametría básica - CG-CHALLENGE",
+      "url": "http://www.cg-challenge.com/2018/05/07/de-lo-real-lo-virtual-desde-un-celular-fotogrametria-basica/",
+      "norm_url": "http://cg-challenge.com/2018/05/07/de-lo-real-lo-virtual-desde-un-celular-fotogrametria-basica",
+      "domain": "cg-challenge.com",
+      "category": "Tools",
+      "key_word": "real",
+      "ref_level": 0.347,
+      "add_date": "2021-06-06"
+    },
+    {
+      "title": "How to Install OpenCV 3.4.0 with Python 3 on Raspberry Pi 3 - Life2Coding",
+      "url": "https://www.life2coding.com/install-opencv-3-4-0-python-3-raspberry-pi-3/",
+      "norm_url": "https://life2coding.com/install-opencv-3-4-0-python-3-raspberry-pi-3",
+      "domain": "life2coding.com",
+      "category": "Coding",
+      "key_word": "python",
+      "ref_level": 0.711,
+      "add_date": "2023-08-06"
+    },
+    {
+      "title": "(57) Install OpenCV 3.4.0 on Raspberry Pi 3 with Python 3.5.3 - YouTube",
+      "url": "https://www.youtube.com/watch?v=ZuhPzP5lt9U",
+      "norm_url": "https://youtube.com/watch?v=ZuhPzP5lt9U",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "python",
+      "ref_level": 0.249,
+      "add_date": "2023-01-06"
+    },
+    {
+      "title": "Rigging my Anime Character In Blender (Part 6): Project Feline Indie Game Dev Log #17 - YouTube",
+      "url": "https://www.youtube.com/watch?v=xwGNOiMBmNc",
+      "norm_url": "https://youtube.com/watch?v=xwGNOiMBmNc",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.423,
+      "add_date": "2021-07-05"
+    },
+    {
+      "title": "Manual de Usuario de OpenToonz — documentación de OpenToonz - 1.3.0",
+      "url": "https://opentoonz.readthedocs.io/es/latest/",
+      "norm_url": "https://opentoonz.readthedocs.io/es/latest",
+      "domain": "opentoonz.readthedocs.io",
+      "category": "Tools",
+      "key_word": "docs_animation",
+      "ref_level": 0.463,
+      "add_date": "2022-02-12"
+    },
+    {
+      "title": "Rooms y Windows - Explorando OpenToonz - YouTube",
+      "url": "https://www.youtube.com/watch?v=nkimdfpTNuk&list=PLzUvH2YAH3ul8klmyYXjMcDO-IQVh8wv9&index=3",
+      "norm_url": "https://youtube.com/watch?v=nkimdfpTNuk&list=PLzUvH2YAH3ul8klmyYXjMcDO-IQVh8wv9&index=3",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.513,
+      "add_date": "2021-12-04"
+    },
+    {
+      "title": "Releases · opentoonz/opentoonz · GitHub",
+      "url": "https://github.com/opentoonz/opentoonz/releases",
+      "norm_url": "https://github.com/opentoonz/opentoonz/releases",
+      "domain": "github.com",
+      "category": "Coding",
+      "key_word": "github",
+      "ref_level": 0.679,
+      "add_date": "2026-01-14"
+    },
+    {
+      "title": "Split GIF image in frames",
+      "url": "https://ezgif.com/split",
+      "norm_url": "https://ezgif.com/split",
+      "domain": "ezgif.com",
+      "category": "Tools",
+      "key_word": "split",
+      "ref_level": 0.717,
+      "add_date": "2023-06-19"
+    },
+    {
+      "title": "REAPER desde 0 (Principiantes) | Audio para Músicos - YouTube",
+      "url": "https://www.youtube.com/watch?v=WNcg3Z122wY",
+      "norm_url": "https://youtube.com/watch?v=WNcg3Z122wY",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.577,
+      "add_date": "2020-12-26"
+    },
+    {
+      "title": "(77) Descargar e instalar agisoft metashape 1.5.2 full + crack - YouTube",
+      "url": "https://www.youtube.com/watch?v=M6Rp6Krk_6U",
+      "norm_url": "https://youtube.com/watch?v=M6Rp6Krk_6U",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.109,
+      "add_date": "2021-06-09"
+    },
+    {
+      "title": "Curso Basico de Blender",
+      "url": "https://www.esi.uclm.es/www/cglez/fundamentos3D/03.09.UV.html",
+      "norm_url": "https://esi.uclm.es/www/cglez/fundamentos3D/03.09.UV.html",
+      "domain": "esi.uclm.es",
+      "category": "Tools",
+      "key_word": "curso",
+      "ref_level": 0.651,
+      "add_date": "2025-10-31"
+    },
+    {
+      "title": "Mohammed Agbadi - YouTube",
+      "url": "https://www.youtube.com/channel/UCyjTtXnpBEI45ssSmt_VKrA",
+      "norm_url": "https://youtube.com/channel/UCyjTtXnpBEI45ssSmt_VKrA",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.116,
+      "add_date": "2023-03-27"
+    },
+    {
+      "title": "FOTOGRAMETRÍA CON MASCARA (camara fija, objetos girando) - YouTube",
+      "url": "https://www.youtube.com/watch?v=2Jcl1nYRbgg",
+      "norm_url": "https://youtube.com/watch?v=2Jcl1nYRbgg",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.645,
+      "add_date": "2025-05-10"
+    },
+    {
+      "title": "Curso BÁSICO Personajes para Videojuego - Parte 1 - Planteamiento, Referencias y Concept - YouTube",
+      "url": "https://www.youtube.com/watch?v=-QzSvph-1Jk",
+      "norm_url": "https://youtube.com/watch?v=-QzSvph-1Jk",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.441,
+      "add_date": "2025-06-29"
+    },
+    {
+      "title": "Retopologia para Video Juegos (Low Poly) - YouTube",
+      "url": "https://www.youtube.com/watch?v=__ejqUejlz4",
+      "norm_url": "https://youtube.com/watch?v=__ejqUejlz4",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.946,
+      "add_date": "2023-10-19"
+    },
+    {
+      "title": "Tutorial Zbrush en Español #1 | La Interfaz - YouTube",
+      "url": "https://www.youtube.com/watch?v=1wYE9nPtLHg&list=PL5lLeXhUMSwyKdvRBAbUukWcungVfGj6f&index=2&t=0s",
+      "norm_url": "https://youtube.com/watch?v=1wYE9nPtLHg&list=PL5lLeXhUMSwyKdvRBAbUukWcungVfGj6f&index=2&t=0s",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.125,
+      "add_date": "2024-10-06"
+    },
+    {
+      "title": "BELAJAR VECTOR - Tutorial membuat vector wajah dengan adobe illustrator #speedart - YouTube",
+      "url": "https://www.youtube.com/watch?v=O2ncKQqyJes",
+      "norm_url": "https://youtube.com/watch?v=O2ncKQqyJes",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "illustrator",
+      "ref_level": 0.446,
+      "add_date": "2024-05-10"
+    },
+    {
+      "title": "Como hacer Fotogrametria de una roca en photoscan y exportar a archivo PDF - YouTube",
+      "url": "https://www.youtube.com/watch?v=SO6N58Qi08U",
+      "norm_url": "https://youtube.com/watch?v=SO6N58Qi08U",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "fotogrametria",
+      "ref_level": 0.501,
+      "add_date": "2020-06-11"
+    },
+    {
+      "title": "Creando un Paseo Virtual de un Interior con Unity 5-1 Preparando la Escena en Maya 2015 - YouTube",
+      "url": "https://www.youtube.com/watch?v=mIQK6c6eJws",
+      "norm_url": "https://youtube.com/watch?v=mIQK6c6eJws",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "virtual_tour",
+      "ref_level": 0.819,
+      "add_date": "2020-12-16"
+    },
+    {
+      "title": "Tutorial: How to upload a virtual tour to the Internet (FTP) - YouTube",
+      "url": "https://www.youtube.com/watch?v=-A4PCalxi9U",
+      "norm_url": "https://youtube.com/watch?v=-A4PCalxi9U",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "virtual_tour",
+      "ref_level": 0.704,
+      "add_date": "2022-05-23"
+    },
+    {
+      "title": "Curso Básico de HTML desde 0 - Introducción - YouTube",
+      "url": "https://www.youtube.com/watch?v=cqMfPS8jPys",
+      "norm_url": "https://youtube.com/watch?v=cqMfPS8jPys",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.71,
+      "add_date": "2023-11-18"
+    },
+    {
+      "title": "FalconMasters - YouTube",
+      "url": "https://www.youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg",
+      "norm_url": "https://youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.9,
+      "add_date": "2025-04-18"
+    },
+    {
+      "title": "How to Paint Fur - Photoshop - Wolf Portrait - YouTube",
+      "url": "https://www.youtube.com/watch?v=RX4kB7tqf4Y",
+      "norm_url": "https://youtube.com/watch?v=RX4kB7tqf4Y",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "photoshop",
+      "ref_level": 0.939,
+      "add_date": "2025-11-17"
+    },
+    {
+      "title": "De la Interfaz de Usuario a la Ecología de las Interfaces. | Hipermediaciones",
+      "url": "https://hipermediaciones.com/2019/03/24/de-la-interfaz-de-usuario-a-la-ecologia-de-las-interfaces/",
+      "norm_url": "https://hipermediaciones.com/2019/03/24/de-la-interfaz-de-usuario-a-la-ecologia-de-las-interfaces",
+      "domain": "hipermediaciones.com",
+      "category": "Art",
+      "key_word": "interfaz",
+      "ref_level": 0.584,
+      "add_date": "2024-09-09"
+    },
+    {
+      "title": "REAPER #04 | Editar midi en REAPER | PIANOROLL | QUANTIZE | NOTACIÓN - YouTube",
+      "url": "https://www.youtube.com/watch?v=GksC_90yqfA&list=RDgs-Mlp96LRg&index=5",
+      "norm_url": "https://youtube.com/watch?v=GksC_90yqfA&list=RDgs-Mlp96LRg&index=5",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.391,
+      "add_date": "2023-06-18"
+    },
+    {
+      "title": "(174) Los MEJORES VSTs (Instrumentos Virtuales) gratuitos 2019 | Audio para Músicos - YouTube",
+      "url": "https://www.youtube.com/watch?v=H5DvcXw4zqU",
+      "norm_url": "https://youtube.com/watch?v=H5DvcXw4zqU",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.687,
+      "add_date": "2025-03-29"
+    },
+    {
+      "title": "Creando un sistema de menús para nuestra aplicación de #RealidadAumentada #RA #AR - YouTube",
+      "url": "https://www.youtube.com/watch?v=WBGY5TxmjrA",
+      "norm_url": "https://youtube.com/watch?v=WBGY5TxmjrA",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.583,
+      "add_date": "2024-03-19"
+    },
+    {
+      "title": "How To Scale Move Rotate Object Using Lean Touch With Unity 2017.3 - YouTube",
+      "url": "https://www.youtube.com/watch?v=KC0i5U1-1cc",
+      "norm_url": "https://youtube.com/watch?v=KC0i5U1-1cc",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.581,
+      "add_date": "2020-08-22"
+    },
+    {
+      "title": "Unity UI Tutorial - Scroll Rect / Scroll View in 60 Seconds - YouTube",
+      "url": "https://www.youtube.com/watch?v=oDBVRcHhc0M",
+      "norm_url": "https://youtube.com/watch?v=oDBVRcHhc0M",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.327,
+      "add_date": "2023-08-31"
+    },
+    {
+      "title": "F208 UI y Panel Description - YouTube",
+      "url": "https://www.youtube.com/watch?v=2sBUKOwDZ4s",
+      "norm_url": "https://youtube.com/watch?v=2sBUKOwDZ4s",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.717,
+      "add_date": "2023-12-06"
+    },
+    {
+      "title": "Unity3D - How to Zoom an Image / Create a zoomable pannable sprite - YouTube",
+      "url": "https://www.youtube.com/watch?v=BFX3FpUnoio",
+      "norm_url": "https://youtube.com/watch?v=BFX3FpUnoio",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.846,
+      "add_date": "2020-12-12"
+    },
+    {
+      "title": "Blendtuts-ES - YouTube",
+      "url": "https://www.youtube.com/channel/UCqPEFMi2m1wIIHs27ZO7wMw",
+      "norm_url": "https://youtube.com/channel/UCqPEFMi2m1wIIHs27ZO7wMw",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.552,
+      "add_date": "2025-04-04"
+    },
+    {
+      "title": "Unity - Download Archive",
+      "url": "https://unity3d.com/get-unity/download/archive",
+      "norm_url": "https://unity3d.com/get-unity/download/archive",
+      "domain": "unity3d.com",
+      "category": "Miscellany",
+      "key_word": "unity",
+      "ref_level": 0.138,
+      "add_date": "2023-02-10"
+    },
+    {
+      "title": "How to create Augmented Reality in Unity3D & Vuforia - YouTube",
+      "url": "https://www.youtube.com/watch?v=5AkTu6ytACU",
+      "norm_url": "https://youtube.com/watch?v=5AkTu6ytACU",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.93,
+      "add_date": "2024-04-13"
+    },
+    {
+      "title": "Selección y manipulación de bordes en Blender (10) - YouTube",
+      "url": "https://www.youtube.com/watch?v=OhFAa7sg9aw",
+      "norm_url": "https://youtube.com/watch?v=OhFAa7sg9aw",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.895,
+      "add_date": "2023-02-16"
+    },
+    {
+      "title": "Exportar modelos texturizados desde Blender a Unity 5 - YouTube",
+      "url": "https://www.youtube.com/watch?v=nM_mh_2Okik",
+      "norm_url": "https://youtube.com/watch?v=nM_mh_2Okik",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.319,
+      "add_date": "2025-07-09"
+    },
+    {
+      "title": "Tutorial Blender 2.8 Como Aplicar Texturas UV - YouTube",
+      "url": "https://www.youtube.com/watch?v=1AmKVcAAg6E",
+      "norm_url": "https://youtube.com/watch?v=1AmKVcAAg6E",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "blender",
+      "ref_level": 0.398,
+      "add_date": "2024-06-17"
+    },
+    {
+      "title": "(226) Crear app VR android en Unity 3D - YouTube",
+      "url": "https://www.youtube.com/watch?v=KZ90tgWvNuE",
+      "norm_url": "https://youtube.com/watch?v=KZ90tgWvNuE",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.893,
+      "add_date": "2025-11-21"
+    },
+    {
+      "title": "(226) 【JUNO AR Tutorial】⑤ Unity 2019& Vuforia- add sliders to control rotation & scale - YouTube",
+      "url": "https://www.youtube.com/watch?v=uxgF9DkRYLM",
+      "norm_url": "https://youtube.com/watch?v=uxgF9DkRYLM",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.606,
+      "add_date": "2025-07-13"
+    },
+    {
+      "title": "(226) Rotating Objects with Touch in Unity 3D - YouTube",
+      "url": "https://www.youtube.com/watch?v=QoPSvBABzlc",
+      "norm_url": "https://youtube.com/watch?v=QoPSvBABzlc",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.159,
+      "add_date": "2022-10-25"
+    },
+    {
+      "title": "(226) Lean Touch + Vuforia AR - YouTube",
+      "url": "https://www.youtube.com/watch?v=gxaWaiVn1bs",
+      "norm_url": "https://youtube.com/watch?v=gxaWaiVn1bs",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.173,
+      "add_date": "2025-11-14"
+    },
+    {
+      "title": "Como hacer un Menu en Unity 5 - E3 - Transiciones y Submenu - YouTube",
+      "url": "https://www.youtube.com/watch?v=2qEjIAJ2DCM",
+      "norm_url": "https://youtube.com/watch?v=2qEjIAJ2DCM",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.24,
+      "add_date": "2024-09-17"
+    },
+    {
+      "title": "Como crear transiciones entre escenas para Unity - YouTube",
+      "url": "https://www.youtube.com/watch?v=T00RtgcfCn0",
+      "norm_url": "https://youtube.com/watch?v=T00RtgcfCn0",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "unity",
+      "ref_level": 0.623,
+      "add_date": "2022-09-27"
+    },
+    {
+      "title": "Tramas y degradados para serigrafía (Texturas para serigrafia en ilustrator)) - YouTube",
+      "url": "https://www.youtube.com/watch?v=EDVFyAt11bs",
+      "norm_url": "https://youtube.com/watch?v=EDVFyAt11bs",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.846,
+      "add_date": "2021-05-29"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/watch?v=b1HlgojRa7I",
+      "norm_url": "https://youtube.com/watch?v=b1HlgojRa7I",
+      "domain": "youtube.com",
+      "category": "YT tutorials",
+      "key_word": "tutorial",
+      "ref_level": 0.236,
+      "add_date": "2022-01-06"
+    },
+    {
+      "title": "¿Qué es ArtFutura? Festival de Cultura y Creatividad Digital",
+      "url": "https://www.artfutura.org/v3/que-es-artfutura/",
+      "norm_url": "https://artfutura.org/v3/que-es-artfutura",
+      "domain": "artfutura.org",
+      "category": "Art",
+      "key_word": "art",
+      "ref_level": 0.649,
+      "add_date": "2025-11-06"
+    }
+  ]
+}
