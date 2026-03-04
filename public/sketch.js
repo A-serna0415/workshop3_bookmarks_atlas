@@ -1,6 +1,15 @@
-let data;
+/* 
+Workshop_3: B00km4rk5_P3rsona1_Atla5
+By: Andres Serna
+Last update: 1 March 2026
 
-let cam = {
+Blurp: A personal dataset dynamic mapping about some of the web references I have archived over a few years.
+
+*/
+
+let data; // Stores bookmarks data from JSON file
+
+let cam = { // Camera values to control zoom/pan
   x: 0,
   y: 0,
   z: 1,
@@ -43,7 +52,7 @@ const CAT_COLORS = {
 const TUNE = {
   ringRadiusFactor: 0.40,
 
-  // Cluster layout: keep category clusters closer (not overly spread)
+  // Cluster layout: keep category clusters closer
   anchorRadiusFactor: 0.60,
   attract: 0.0020,
 
