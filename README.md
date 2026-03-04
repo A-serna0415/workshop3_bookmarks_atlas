@@ -2,7 +2,7 @@
 
 *This is a personal dataset dynamic atlas about some of the web references I have archived over a few years. Each node represents a specific category for the reference. The user can navigates the dynamic atlas and explore each reference as much as they like. Made with **p5.js**, **JSON files** and **Node.js**.*
 
-### Process
+### Process
 
 *The main idea for this project takes inspiration from "personal Knowledge database" project by the colombian artist and data scientist Santiago Ortiz.*
 
