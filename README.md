@@ -40,8 +40,7 @@ Total: **211**
 
 ### How to Run
 
-*You can also download the repo and run it in your machine localy. **IMPORTANT:** to keep the JSON file in the same project folder.*
-
+*You can also download the repo and run it in your machine localy.*
 - Use the mouse wheel to zoom in/zoom out.
 - Drag to pan over the atlas.
 - Hover the mouse over any node to highlight it's details.
