@@ -44,7 +44,7 @@ Total: **211**
 - Use the mouse wheel to zoom in/zoom out.
 - Drag to pan over the atlas.
 - Hover the mouse over any node to highlight it's details.
-- Click the node to open the reference in a new tab.
+- Click the node to open the reference link in a new tab.
 
 
 ### Links
