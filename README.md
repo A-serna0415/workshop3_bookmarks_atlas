@@ -1,9 +1,9 @@
-# :bookmark_tabs: B00km4rk5_Per5ona1_Atla5
+# :bookmark_tabs: _03_B00km4rk5_Per5ona1_Atla5
 
 *This is a personal dataset dynamic atlas about some of the web references I have archived over a few years. Each node represents a specific category for the reference. The user can navigates the dynamic atlas and explore each reference as much as they like. Made with **p5.js**, **JSON files** and **Node.js**.*
 
 
-### Process
+## Process
 
 *The main idea for this project takes inspiration from "personal Knowledge database" project by the colombian artist and data scientist Santiago Ortiz.*
 
@@ -20,7 +20,7 @@
 Total: **211**
 
 
-### Sketches
+## Sketches
 
 *Some doodles and sketches about my thinking process for the project, how it would look and its interface:*
 
@@ -29,16 +29,16 @@ Total: **211**
 ![sketch_3](assets/IMG_2135.jpg)
 
 
-### Demo
+## Demo Video
 
 *https://youtu.be/mfSTReCKNKg*
 
 
-### Requirements
+## Requirements
 - Web browser.
 
 
-### How to Run
+## How to Run
 
 *You can also download the repo and run it in your machine localy.*
 - Use the mouse wheel to zoom in/zoom out.
@@ -47,7 +47,7 @@ Total: **211**
 - Click the node to open the reference link in a new tab.
 
 
-### Links
+## Links
 
 *GitHub Repo: https://github.com/A-serna0415/workshop3_bookmarks_atlas.git*
 
