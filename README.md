@@ -1,6 +1,6 @@
 # :bookmark_tabs: _03_B00km4rk5_Per5ona1_Atla5
 
-### By Andrés Serna
+### By Andrés Serna
 ### 1 March 2026
 
 ## Abstract
